@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-225-trellis-api-implement-tamper-evident",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-225-trellis-api-implement-tamper-evident": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-225-trellis-api-implement-tamper-evident",
+    "origin"
+  ]
+}
